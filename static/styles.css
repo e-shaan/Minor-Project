@@ -1,0 +1,218 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Courier';
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image: url("ISS_bg.jpg"); 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    height: 100%;
+}
+
+.nav ul {
+    margin: 0;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    display: inline-block;
+    padding: .5em;
+    color: white;
+    text-decoration: none;
+}
+
+.main-nav {
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bold;
+    border-bottom: 1px solid rgba(255, 255, 255, .3)
+}
+
+.main-nav li {
+    padding: 0 5%;
+}
+
+.nav a:hover {
+    background-color: rgba(255, 255, 255, .3)
+}
+
+.passtimed{
+    font-family: Courier;
+    font-weight: bold;
+    color:rgb(200, 200, 200);
+    text-align: center;
+    font-size: 2.5em;
+    margin-left : 400px;
+}
+
+.main-header {
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("space_header.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 30px;
+}
+
+.ISS_title {
+    text-align: center;
+    margin: 0;
+    font-size: 3em;
+    font-family: "Courier";
+    font-weight: bold;
+    color: white;
+    margin-top: 20px;
+}
+
+.hr {
+
+    margin-top: 0.1em;
+    margin-bottom: 0.5em;
+    border-width: 2px;
+    color :rgba(255, 255, 255, .3);
+    background-color :rgba(255, 255, 255);
+}
+
+.section-header {
+    font-family: Courier;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    font-size: 2.5em;
+    margin-left : 300px;
+}
+
+
+.astronaut_list{
+    list-style-type:none;
+    text-align: center;
+    margin: 0;
+    font-size: 1em;
+    font-family: "Courier";
+    font-weight: bold;
+    color: #333;
+}
+
+.passtime_input{
+    width: 50%;
+    padding: 12px 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 200px;
+}
+
+.passtime_submit{
+    width: 30%;
+    background-color: #4c56af;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 270px;
+}
+
+.content {
+    font-family: Courier;
+    font-weight: bold;
+    color: rgb(157, 157, 163);
+    text-align: justify;
+    font-size: 1.3em;
+    position: relative;
+    left: 200px;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.home{
+    font-size:2em;
+}
+
+.header{
+    font-family: Courier;
+    font-weight: bold;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.home-header{
+    font-size: 3.5em;
+    font-family: Algerian;
+    margin-left : 350px;
+}
+
+.location-header{
+    font-size: 2.3em;
+    margin-left : 0px;
+}
+
+.location-map{
+    margin-left :500px;
+    position : absolute;
+
+}
+
+.astronuts-header{
+    font-size: 2em;
+}
+
+.about-header{
+    margin-left : 350px;
+}
+
+.passtime-content{
+    margin-left : 210px;
+}
+
+.passtime-header{
+    margin-left : 100px;
+    font-size: 1.7em;
+}
+
+.astronauts-content{
+    font-size: 1.5em;
+    margin-left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

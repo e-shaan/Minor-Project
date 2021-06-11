@@ -1,0 +1,1126 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [11/Jan/2021 22:09:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Jan/2021 22:09:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\haha 4\\Main Flask App.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:34:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:34:45] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:34:45] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:34:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:34:45] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:35:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:35:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:35:17] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:35:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:35:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:35:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:35:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:35:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:35:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:36:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:36:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:36:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:42:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\haha 4\\Main Flask App.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 09:59:52] "[37mGET / HTTP/1.1[0m" 200 -
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:03] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:03] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:03] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:00:59] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:22:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:22:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:22:10] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:22:10] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:22:10] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:22:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:22:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:22:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:22:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:22:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:37:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 10:37:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:03:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:03:56] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:03:56] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:03:56] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:03:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:04:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:04:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:04:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:04:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:04:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:04:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\haha 4\\Main Flask App.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:08:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:08:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:08:27] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:08:27] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:08:27] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:10:08] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:10:08] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:10:08] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:10:08] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:10:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:10:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:10:20] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:10:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:10:32] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:10:32] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:10:32] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:10:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:11:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:11:29] "[37mGET /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:12:21] "[37mGET /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:12:39] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:13:32] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:13:41] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:13:41] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:13:42] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:13:42] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:13:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:08] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:21] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:27] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:27] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:27] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:27] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:46] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:46] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:46] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:46] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:14:54] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:19:01] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:19:01] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:19:01] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:19:02] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:19:31] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:19:32] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:19:33] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:19:33] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:19:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:19:34] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:19:34] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:19:53] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:20:25] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:20:26] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:20:26] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:20:26] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:20:26] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:20:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:20:58] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:00] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:00] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:00] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:00] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:07] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:07] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:08] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:08] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:14] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:14] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:15] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:15] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:20] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:20] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:21] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:21] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:27] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:27] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:28] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:28] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:21:33] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:22:48] "[37mGET /about HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:22:49] "[37mGET /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:22:50] "[37mGET /about HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:23:16] "[37mGET /about HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:23:17] "[37mGET /about HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:23:18] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:23:18] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:23:18] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:23:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:23:39] "[37mGET /about HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:23:47] "[37mGET /about HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:24:33] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:24:34] "[37mGET /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:24:40] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=&format=json HTTP/1.1" 400 None
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:24:41] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=geseg&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=37.096208&lon=-8.0671381&n=1 HTTP/1.1" 200 260
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:24:45] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=geseg&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=37.096208&lon=-8.0671381&n=1 HTTP/1.1" 200 260
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:22] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:22] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:22] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:22] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=geseg&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=37.096208&lon=-8.0671381&n=1 HTTP/1.1" 200 260
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:32] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:32] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:32] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:32] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=geseg&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=37.096208&lon=-8.0671381&n=1 HTTP/1.1" 200 260
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:42] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:42] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:42] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:42] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:25:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=sbzbdgxh&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:26:55] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\haha 4\\ISS_Functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=sbzbdgxh&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:27:31] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=&format=json HTTP/1.1" 400 None
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:27:33] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:27:38] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:27:50] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:27:50] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:27:50] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:27:50] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:27:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=&format=json HTTP/1.1" 400 None
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:27:51] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:28:29] "[37mGET /home HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:28:31] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:28:33] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:28:36] "[37mGET /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:28:37] "[37mGET /about HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:35:42] "[37mGET /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:35:44] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 12:35:45] "[37mGET /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\haha 4\\Main Flask App.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 17:07:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 17:07:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 17:07:25] "[37mGET /home HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 17:07:42] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 17:07:42] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 17:07:48] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 17:08:20] "[37mGET /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2021 17:08:22] "[37mGET /about HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\haha 4\\Main Flask App.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:26:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:26:53] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:26:53] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:26:53] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:26:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:26:59] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:00] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:02] "[37mGET /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:10] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:15] "[37mGET /about HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:17] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:19] "[37mGET /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=&format=json HTTP/1.1" 400 None
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:21] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=&format=json HTTP/1.1" 400 None
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:39] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:39] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:39] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:39] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 10:27:43] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 879-336-632
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 11:06:56] "[37mGET /about HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 11:06:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 11:07:03] "[37mGET /home HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 11:07:05] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 11:07:09] "[37mGET /about HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 11:07:13] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 11:07:27] "[37mGET /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 11:07:31] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=&format=json HTTP/1.1" 400 None
+INFO:werkzeug:127.0.0.1 - - [14/Jan/2021 11:07:40] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-932-545
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:37:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:37:13] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:37:14] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:37:14] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:37:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:37:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:37:39] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:37:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:37:40] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:37:40] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:38:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:38:26] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:38:26] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:38:26] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2021 18:38:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 240-743-446
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:34:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:34:34] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:34:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:34:34] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:34:34] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:35:00] "[37mGET /home HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 356
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:35:02] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:35:04] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:35:06] "[37mGET /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9387711&lon=72.8353355&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:35:11] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=&format=json HTTP/1.1" 400 None
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:35:13] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Jan/2021 11:35:16] "[37mGET /about HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 240-743-446
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 115-048-699
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 115-048-699
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:24] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:24] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:25] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:27] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:30] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:31] "[37mGET /home HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 355
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:32] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:42] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:47] "[37mGET /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=18.9909781&lon=73.065552973323&n=1 HTTP/1.1" 200 266
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:51] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2021 16:42:52] "[37mGET /about HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:09:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:09:46] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:09:46] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:09:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:09:46] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:04] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:04] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:04] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:15] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:15] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:16] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:16] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:25] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:25] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:25] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:31] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:31] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:31] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:31] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:43] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:43] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:43] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:44] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:45] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:45] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:49] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:49] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/May/2021 18:10:50] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 15:31:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 15:31:43] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 15:31:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 15:31:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 15:31:45] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 15:32:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 15:32:22] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 15:32:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 15:32:22] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 15:32:22] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 15:32:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 15:32:22] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 19:31:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 19:31:03] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 19:31:06] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 19:37:37] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 19:37:40] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 19:37:40] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 19:37:40] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 19:37:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 19:40:11] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [13/May/2021 19:40:41] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/Jun/2021 19:16:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jun/2021 19:16:13] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jun/2021 19:16:13] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jun/2021 19:16:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Jun/2021 19:16:13] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [03/Jun/2021 19:16:15] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [03/Jun/2021 19:16:28] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jun/2021 19:16:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:03:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:03:27] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:03:27] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:03:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:03:27] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:03:34] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 355
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:03:39] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:03:41] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:04:15] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:04:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:04:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:04:43] "[37mGET /about HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:04:44] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:05:16] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:05:16] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:05:17] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:05:17] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:05:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:06:05] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:06:05] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:06:06] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:06:06] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:06:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:06:44] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:06:44] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:06:44] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:06:44] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:06:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:07:16] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:07:24] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:07:24] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:07:24] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:07:24] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:07:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 355
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:07:30] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:07:32] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:08:52] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:08:52] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:08:52] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:08:52] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:08:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 355
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:09:04] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:09:06] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 115
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:09:29] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:09:30] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:09:30] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:09:30] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:09:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:11:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:11:39] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:11:40] "[37mGET /home HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 355
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:11:41] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:11:42] "[37mGET /home HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 355
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:11:44] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 09:11:44] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:24] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:24] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:25] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:26] "[35m[1mGET /location HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:26] "[37mGET /location?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:27] "[37mGET /location?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:27] "[37mGET /location?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:27] "[37mGET /location?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:27] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:27] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:45] "[35m[1mGET /location HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:46] "[37mGET /location?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:46] "[37mGET /location?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:46] "[37mGET /location?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:47] "[37mGET /location?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:47] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:09:47] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:17] "[35m[1mGET /location HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:18] "[37mGET /location?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:19] "[37mGET /location?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:19] "[37mGET /location?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:19] "[37mGET /location?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:19] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:19] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 355
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:36] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:38] "[35m[1mGET /location HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:38] "[37mGET /location?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:38] "[37mGET /location?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:38] "[37mGET /location?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:39] "[37mGET /location?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:10:39] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:11:01] "[35m[1mGET /location HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:11:03] "[37mGET /location?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:11:03] "[37mGET /location?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:11:03] "[37mGET /location?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:11:03] "[37mGET /location?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:11:03] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:11:03] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-85.8326&lon=4.0047&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:11:17] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\ISS_Functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-84.8726&lon=5.3471&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:11:43] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=6.6375&lon=-83.9441&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:12:09] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:12:09] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:12:09] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:12:10] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:12:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=7.3450&lon=-83.4322&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:12:23] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\ISS_Functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=9.5887&lon=-81.7919&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:13:07] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:13:08] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:13:08] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:13:08] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:13:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=11.1464&lon=-80.6350&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:13:39] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:13:39] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:13:40] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:13:40] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:13:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:13:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:14:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:14:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:14:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=13.3727&lon=-78.9494&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:14:23] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=14.7417&lon=-77.8907&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:14:51] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=15.4614&lon=-77.3264&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:15:05] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-76.1449&lon=16.9445&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:15:35] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:15:36] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:15:36] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:15:36] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:15:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-74.3943&lon=19.0797&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:16:19] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:16:19] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:16:20] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:16:20] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:16:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:16:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:16:24] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:16:24] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:16:24] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-73.9028&lon=19.6652&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:16:31] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-70.2546&lon=23.8100&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:17:57] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:17:57] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:17:57] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:17:58] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:17:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-68.3134&lon=25.8664&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:18:41] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:18:42] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:18:42] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:18:42] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:18:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\ISS_Functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=29.2439&lon=-64.8828&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:19:54] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:19:54] "[37mGET /static/styles.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:19:55] "[37mGET /static/ISS_bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:19:55] "[37mGET /static/space_header.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:19:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=29.8799&lon=-64.1972&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:20:08] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=51.2164&lon=-13.9518&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:31:34] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=45.3844&lon=30.4356&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:39:31] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=45.0936&lon=31.1667&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:39:41] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=42.3630&lon=37.1894&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:41:04] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=41.7043&lon=38.4613&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:41:22] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=38.1325&lon=44.5080&format=json HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:42:56] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:44:13] "[35m[1mGET /location HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:44:19] "[37mGET /location?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:44:19] "[37mGET /location?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:44:19] "[37mGET /location?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:44:21] "[37mGET /location?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:44:21] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:44:21] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=34.4562&lon=49.6536&format=json HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:44:26] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=30.3285&lon=54.5686&format=json HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:46:00] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=28.6933&lon=56.3289&format=json HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:46:36] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=27.6580&lon=57.3986&format=json HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:46:58] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=25.0409&lon=59.9680&format=json HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:47:55] "[35m[1mGET /location HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:47:56] "[37mGET /location?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:47:56] "[37mGET /location?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:47:56] "[37mGET /location?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:47:57] "[37mGET /location?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:47:58] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 19:47:58] "[37mGET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 22:19:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 22:19:36] "[37mGET /home HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 355
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 22:19:42] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 114
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=12.2515&lon=-127.0199&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 22:19:49] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\moveForward\\Python\\Level 3\\ISS_Functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-734-029
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

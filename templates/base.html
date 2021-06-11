@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{%block title%}{% endblock%}</title>
+        <meta name="description" content="By moveForward">
+        <link rel="stylesheet" href="/static/styles.css" />
+    </head>
+    <body>
+        <header class="main-header">
+            <nav class="nav main-nav">
+                <ul>
+                    <li><a href="home">HOME</a></li>
+                    <li><a href="astronauts">ASTRONAUTS</a></li>
+                    <li><a href="location">LOCATION</a></li>
+                    <li><a href="about">ABOUT</a></li>
+                </ul>
+            </nav>
+            <h1 class="ISS_title">-------International Space Station-------</h1>
+        </header>
+        <hr class= "hr">
+        {%block content%} 
+        
+        {% endblock %}
+    </body>
+</html>

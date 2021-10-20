@@ -30,10 +30,6 @@ Hour 11, 12
 - python anywhere
 
 
-ISS Functions 
-Flask
-HTML
-CSS
 
 
 

@@ -40,7 +40,8 @@ def astronauts_in_ISS(): #function to find the names of astronauts in the ISS
     astronaut_names = []
 
     for i in data['people']:
-        astronaut_names.append(i['name'])
+        if i['craft'] == "ISS":
+            astronaut_names.append(i['name'])
 
     return astronaut_names
 

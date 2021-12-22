@@ -5,6 +5,8 @@ from flask import Flask, render_template, request
 from ISS_Functions import *
 import logging
 
+
+
 #creating the webapp
 app = Flask(__name__)
 
@@ -48,7 +50,15 @@ def location():
 
     return render_template("location.html", longitude = longitude , latitude = latitude , country = country)
 
-
+#passtime page
+@app.route("/passtime",methods = ["POST","GET"])
+def passtime():
+    if request.method == "POST":
+        location = request.form['location']
+        passtime = ISS_passtimes(location)
+        return render_template("passtime.html",passtime = passtime)
+    else:
+        return render_template("passtime.html")
    
 if __name__ == "__main__":
     logging.basicConfig(filename = 'error.log' , level = logging.DEBUG )

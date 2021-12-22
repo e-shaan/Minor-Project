@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{%block title%} The ISS | Passtimes{% endblock%}
+
+{%block content%} 
+    <section class="content">
+        <form action="#" method="post" enctype = "multipart/form-data">
+            <h2 class="header passtime-header">Find out when I visit you...</h2>
+
+            <input class = "passtime_input" type="text" id="loc" name="location" placeholder="Your location...">
+            <br>
+            <input class = "passtime_submit" type="submit" value="Submit">
+
+            <h1 class= "passtime-content">{{passtime}}</h1>
+        </form>
+    </section>
+{%endblock%} 

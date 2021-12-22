@@ -1,9 +1,14 @@
+#http://moveforward100.pythonanywhere.com
 
 
 from flask import Flask, render_template, request
-from ISS_Functions import *
-from run_database import *
+
 import logging
+
+from flask_sqlalchemy import SQLAlchemy 
+from sqlalchemy import desc
+from datetime import datetime
+
 
 
 
@@ -15,14 +20,68 @@ app = Flask(__name__)
 # which tells the application which URL should call 
 # the associated function.
 
+
+#initialising the database
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///users.db'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
+db = SQLAlchemy(app)
+
+
+#database model
+class Users(db.Model):
+    user_id  = db.Column(db.Integer , primary_key = True)
+    name = db.Column(db.String(100) , nullable = False)
+    email = db.Column(db.String(100), nullable = False )#, unique = True)
+    #date_added =  db.Column(db.DateTime , default = datetime.utcnow)
+
+
+    def __repr__(self):
+        return '<Name %r>' %self.name
+
+
 #main page
 @app.route("/")
 @app.route("/home")
 def home():
-    run_database()
     return render_template("home.html")
 
 # '/about' URL is bound with about() function and so on
+
+#db test page
+@app.route("/test")
+def test():
+
+    print("Cqq")
+
+
+    user_id =  1231222
+    name = "Eshaan"
+    email = "EshaanEmaiwdwl"
+
+    #new_entry = Users(user_id = user_id , name = name , email = email)
+
+
+
+    get_entries = Users.query.order_by(Users.user_id)
+
+    
+    #print( get_entries )
+
+    for i in get_entries:
+        print(i.name)
+
+
+    if True:
+    
+            #db.session.add(new_entry)
+            
+            #db.session.commit()
+
+            return "Done!"
+
+
+
 
 #about page
 @app.route("/about")

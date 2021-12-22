@@ -1364,3 +1364,432 @@ INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 196-106-010
 INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=48.7121&lon=38.8405&format=json HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:00:50] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 497
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:02:04] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=50.4401&lon=47.5074&format=json HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:02:25] "[37mGET /location HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=51.2106&lon=53.9396&format=json HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:03:32] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 112
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=48.3473&lon=89.2848&format=json HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:09:39] "[37mGET /location HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:10:32] "[37mGET /passtime HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=bangalore&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=12.9791198&lon=77.5912997&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:10:40] "[37mPOST /passtime HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:11:08] "[37mGET /about HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 497
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:11:16] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 497
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:11:16] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /astros.json HTTP/1.1" 200 497
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:11:45] "[37mGET /astronauts HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:14:59] "[35m[1mGET /test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:15:00] "[37mGET /test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:15:01] "[37mGET /test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:15:01] "[37mGET /test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:15:01] "[37mGET /test?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:15:01] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:15:01] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:15:35] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:15:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:15:58] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:16:10] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:41:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:41:35] "[35m[1mGET /test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:41:36] "[37mGET /test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:41:36] "[37mGET /test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:41:36] "[37mGET /test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:41:37] "[37mGET /test?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:41:37] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 10:41:37] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:10:24] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:11:41] "[35m[1mGET /test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:11:42] "[37mGET /test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:11:42] "[37mGET /test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:11:43] "[37mGET /test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:11:43] "[37mGET /test?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:11:43] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:11:43] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:12:00] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:12:04] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:12:11] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:13:12] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:13:14] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:13:20] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:14:16] "[35m[1mGET /test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:14:18] "[37mGET /test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:14:18] "[37mGET /test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:14:18] "[37mGET /test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:14:18] "[37mGET /test?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:14:18] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:14:18] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:14:24] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:14:33] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:15:41] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:15:43] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:15:55] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:15:57] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:16:15] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:16:17] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:16:22] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:17:06] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:17:11] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:17:16] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:17:21] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:17:22] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:17:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:17:28] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:18:19] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:18:29] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:18:37] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:18:42] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:19:14] "[35m[1mGET /test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:19:15] "[37mGET /test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:19:16] "[37mGET /test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:19:16] "[37mGET /test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:19:16] "[37mGET /test?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:19:16] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:19:16] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:19:38] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:20:12] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:20:22] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:20:32] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:20:55] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:21:12] "[35m[1mGET /test HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:21:13] "[37mGET /test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:21:14] "[37mGET /test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:21:14] "[37mGET /test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:21:14] "[37mGET /test?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:21:14] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:21:14] "[37mGET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:26:14] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:26:32] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:26:49] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:26:58] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:26:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:27:48] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:27:49] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:27:53] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:27:54] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:27:57] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:27:59] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:28:12] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:28:15] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-106-010
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/Dec/2021 11:28:26] "[37mGET /test HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\Minor Project\\flask_app_with_database_for_astrounauts.py', reloading

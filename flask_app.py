@@ -15,7 +15,7 @@ import logging
 
 from flask_sqlalchemy import SQLAlchemy 
 from sqlalchemy import desc
-from datetime import datetime
+from datetime import date
 
 from ISS_Functions import *
 
@@ -71,8 +71,12 @@ def home():
     #adding all the names to the database ['Astronauts' table]
     for i in range(len(astronaut_names)) :
 
+        #generating wikipedia url
+        name = astronaut_names[i].replace(" ", "_")
+        wiki_url = "https://en.wikipedia.org/wiki/" + name   
+
         #entering single record into the 'Astronauts' table
-        new_entry = Astronauts(ID = i , astronaut_name = astronaut_names[i] , wiki_url = "wiki_url")
+        new_entry = Astronauts(ID = i , astronaut_name = astronaut_names[i] , wiki_url = wiki_url)
         db.session.add(new_entry)
         db.session.commit()
 
@@ -94,12 +98,14 @@ def astronauts():
     
     #initialising a list to temporarily store the astronaut names
     astronaut_names = []
+    wiki_url = []
 
     #entering individual names into the list
     for i in get_data:
         astronaut_names.append(i.astronaut_name)
+        wiki_url.append(i.wiki_url)
 
-    return render_template("astronauts.html",astronaut_names = astronaut_names)
+    return render_template("astronauts.html",astronaut_names = astronaut_names , wiki_url = wiki_url, date = date.today())
 
 #location page
 @app.route("/location")

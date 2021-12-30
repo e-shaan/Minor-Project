@@ -2,11 +2,11 @@
 {%block title%} The ISS | Astronauts{% endblock%}
             
 {%block content%}     
-    <h2 class="content header">Astronauts in the ISS... as of DATE</h2>
+    <h2 class="content header">Astronauts in the ISS on {{date}}</h2>
     <br>
     <div class = "content astronauts-content">
-        {%for i in astronaut_names%}
-            <li>{{i}}</li>
+        {%for i in range(astronaut_names|length)%}
+            <li><a style = "color : white ; text-decoration: none" href="{{wiki_url[i]}}">{{astronaut_names[i]}}</li>
         {%endfor%}
     </div>   
 {%endblock%} 

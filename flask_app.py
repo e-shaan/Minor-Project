@@ -1,3 +1,14 @@
+'''
+add comments for return rendertemplate() lines
+'''
+
+
+
+
+
+
+
+
 from flask import Flask, render_template, request
 
 import logging
@@ -48,25 +59,23 @@ class Astronauts(db.Model):
 
 @app.route("/home")
 def home():
-    
-    #get_entries = Astrounauts.query.order_by(Astrounauts.ID)
-    #for i in get_entries:
-    #        print(i.name)
 
-    ID = 3
-    astronaut_name = "astronaut_name" 
-    wiki_url = "Test url"
+    #clearing the Astronauts table from the database
+    db.session.query(Astronauts).delete()
+    db.session.commit()
 
-    #new_entry = Astronauts(ID = ID , astronaut_name = astronaut_name , wiki_url = wiki_url)
+    #gathering the astronaut names from the ISS Funtions
+    astronaut_names = astronauts_in_ISS()
+     
+    #iterating through the name list 
+    #adding all the names to the database ['Astronauts' table]
+    for i in range(len(astronaut_names)) :
 
-        
+        #entering single record into the 'Astronauts' table
+        new_entry = Astronauts(ID = i , astronaut_name = astronaut_names[i] , wiki_url = "wiki_url")
+        db.session.add(new_entry)
+        db.session.commit()
 
-    #db.session.add(new_entry)
-
-    #db.session.commit()
-
-    print("DONE")
-  
     return render_template("home.html")
 
 
@@ -79,8 +88,17 @@ def about():
 #astronauts page
 @app.route("/astronauts")
 def astronauts():
-    #list of astronaut names
-    astronaut_names = astronauts_in_ISS()
+    
+    #retrieving data from 'Astronauts' table
+    get_data = Astronauts.query.order_by(Astronauts.ID) 
+    
+    #initialising a list to temporarily store the astronaut names
+    astronaut_names = []
+
+    #entering individual names into the list
+    for i in get_data:
+        astronaut_names.append(i.astronaut_name)
+
     return render_template("astronauts.html",astronaut_names = astronaut_names)
 
 #location page

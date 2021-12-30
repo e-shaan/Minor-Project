@@ -81,5 +81,5 @@ def astronauts_in_ISS(): #function to find the names of astronauts in the ISS
         if i['craft'] == "ISS":
             astronaut_names.append(i['name'])
 
-    return "" #astronaut_names
+    return astronaut_names
 

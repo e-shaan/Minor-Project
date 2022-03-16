@@ -308,11 +308,12 @@ def passtime():
         #ISS_passtimes() returns a tuple : (passtime ,latitude ,longitude)
         data = ISS_passtimes(location)
 
-        #extracting the passtime from the data
-        passtime = data[0]
-
+        
         #if the "data" is a valid location
         if data != "Invalid Location!":
+
+            #extracting the passtime from the data
+            passtime = data[0]
 
             #extracting the latitude from the data
             latitude = data[1]
@@ -329,9 +330,16 @@ def passtime():
             #commiting the changes made
             db.session.commit()
 
-        #returning "passtime.html" page to be rendered on the browser
-        #passing the parameters required by the html page
-        return render_template("passtime.html", passtime = passtime)
+            #returning "passtime.html" page to be rendered on the browser
+            #passing the parameters required by the html page
+            return render_template("passtime.html", passtime = passtime)
+
+        #inner else
+        else:
+
+            #returning "passtime.html" page to be rendered on the browser
+            #passing the parameters required by the html page
+            return render_template("passtime.html", passtime = data)
     
     #outer else
     else:

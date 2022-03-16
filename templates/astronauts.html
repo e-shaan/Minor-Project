@@ -6,7 +6,7 @@
     <br>
     <div class = "content astronauts-content">
         {%for i in range(astronaut_names|length)%}
-            <li><a style = "color : white ; text-decoration: none" href="{{wiki_url[i]}}">{{astronaut_names[i]}}</li>
+            <li><a style = "color : white ; text-decoration: none" href="{{wiki_url[i]}}" target="_blank">{{astronaut_names[i]}}</li>
         {%endfor%}
     </div>   
 {%endblock%} 

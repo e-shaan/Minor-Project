@@ -4,11 +4,6 @@ add comments for return rendertemplate() lines
 
 
 
-
-
-
-
-
 from flask import Flask, render_template, request
 
 import logging
@@ -80,6 +75,7 @@ def home():
         db.session.add(new_entry)
         db.session.commit()
 
+
     return render_template("home.html")
 
 
@@ -87,7 +83,10 @@ def home():
 #about page
 @app.route("/about")
 def about():
-    return render_template("about.html")
+
+    f = open("about.txt", "r")
+    about = f.read()
+    return render_template("about.html" , about = about)
 
 #astronauts page
 @app.route("/astronauts")

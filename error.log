@@ -3390,3 +3390,452 @@ INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:11:42] "GET /static/styles.css HTTP/
 INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:11:43] "GET /static/ISS_bg.jpg HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:11:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:11:43] "GET /static/space_header.jpg HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=39.6644&lon=-14.7547&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:19:12] "GET /location HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:19:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:19:12] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:19:12] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:19:14] "GET /passtime HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:19:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:19:15] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:19:15] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=Bengaluru&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=12.9791198&lon=77.5912997&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:19:18] "POST /passtime HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:19:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-35.7359&lon=54.2985&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:45:41] "GET /location HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:45:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:45:41] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:45:41] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-36.0267&lon=54.6969&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:45:48] "GET /location HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:45:48] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:45:48] "GET /static/ISS_bg.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:45:48] "GET /static/space_header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:45:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-37.1342&lon=56.2638&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:46:15] "GET /location HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:46:15] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:46:15] "GET /static/ISS_bg.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:46:15] "GET /static/space_header.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:46:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-41.3557&lon=63.1472&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:48:05] "[35m[1mGET /location HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:48:05] "GET /location?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:48:05] "GET /location?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:48:05] "GET /location?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:48:05] "GET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:48:06] "GET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-42.9966&lon=66.3509&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:48:51] "[35m[1mGET /location HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:48:51] "GET /location?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:48:51] "GET /location?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:48:52] "GET /location?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:48:52] "GET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:48:52] "GET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-43.3191&lon=67.0273&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:49:01] "[35m[1mGET /location HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:49:01] "GET /location?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:49:01] "GET /location?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:49:01] "GET /location?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:49:01] "GET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:49:02] "GET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-45.6689&lon=72.5603&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:50:15] "[35m[1mGET /location HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:50:16] "GET /location?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:50:16] "GET /location?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:50:16] "GET /location?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:50:16] "GET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:50:16] "GET /location?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-48.8561&lon=82.8898&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:52:19] "GET /location HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:52:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:52:19] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:52:19] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:52:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-now.json HTTP/1.1" 200 113
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/reverse.php?key=pk.d5417184e8ebdef6796c2cb7f335fabe&lat=-49.1587&lon=84.1810&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:52:34] "GET /location HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:52:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:52:34] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:52:34] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\ISS_Functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:57:49] "GET /passtime HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:57:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:57:49] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:57:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:57:50] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=Bengaluru&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=12.9791198&lon=77.5912997&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:57:54] "[35m[1mPOST /passtime HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:57:54] "GET /passtime?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:57:54] "GET /passtime?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:57:55] "GET /passtime?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:57:55] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:57:55] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=Bengaluru&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=12.9791198&lon=77.5912997&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:58:12] "[35m[1mPOST /passtime HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:58:12] "GET /passtime?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:58:12] "GET /passtime?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:58:13] "GET /passtime?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:58:13] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 09:58:13] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=Bengaluru&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=12.9791198&lon=77.5912997&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:06:50] "[35m[1mPOST /passtime HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:06:50] "GET /passtime?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:06:51] "GET /passtime?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:06:51] "GET /passtime?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:06:51] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=kolkata&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=22.5414185&lon=88.35769124388872&n=1 HTTP/1.1" 200 268
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:09:40] "[35m[1mPOST /passtime HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:09:40] "GET /passtime?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:09:40] "GET /passtime?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:09:41] "GET /passtime?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:09:41] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=kolkata&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=22.5414185&lon=88.35769124388872&n=1 HTTP/1.1" 200 268
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:11:21] "[35m[1mPOST /passtime HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:11:22] "GET /passtime?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:11:22] "GET /passtime?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:11:22] "GET /passtime?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:11:22] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:11:22] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:12:57] "GET /passtime HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:12:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:12:57] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:12:58] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=Bangalore&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=12.9791198&lon=77.5912997&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:13:03] "[35m[1mPOST /passtime HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:13:03] "GET /passtime?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:13:03] "GET /passtime?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:13:04] "GET /passtime?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:13:04] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:19:10] "GET /passtime HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:19:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:19:10] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:19:10] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=Bengaluru&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=12.9791198&lon=77.5912997&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:19:14] "[35m[1mPOST /passtime HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:19:14] "GET /passtime?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:19:14] "GET /passtime?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:19:14] "GET /passtime?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:19:14] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:19:14] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=Bengaluru&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=12.9791198&lon=77.5912997&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:20:07] "POST /passtime HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:20:07] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:20:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:20:07] "GET /static/ISS_bg.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:20:07] "GET /static/space_header.jpg HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=ascwawa&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:20:17] "[35m[1mPOST /passtime HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:20:18] "GET /passtime?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:20:18] "GET /passtime?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:20:18] "GET /passtime?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:20:18] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:20:18] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=ascwawa&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:21:24] "[35m[1mPOST /passtime HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:21:24] "GET /passtime?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:21:24] "GET /passtime?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:21:24] "GET /passtime?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:21:24] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:21:25] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\ISS_Functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=ascwawa&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:25:38] "[35m[1mPOST /passtime HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:25:38] "GET /passtime?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:25:38] "GET /passtime?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:25:38] "GET /passtime?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:25:38] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:25:39] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=ascwawa&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:19] "[35m[1mPOST /passtime HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:19] "GET /passtime?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:20] "GET /passtime?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:20] "GET /passtime?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:20] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:20] "GET /passtime?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\ISS_Functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=ascwawa&format=json HTTP/1.1" 404 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:48] "POST /passtime HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:48] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:48] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=Mumbai&format=json HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.open-notify.org:80
+DEBUG:urllib3.connectionpool:http://api.open-notify.org:80 "GET /iss-pass.json?lat=19.0759899&lon=72.8773928&n=1 HTTP/1.1" 200 261
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:59] "POST /passtime HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:26:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:27:00] "[36mGET /static/ISS_bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:27:00] "[36mGET /static/space_header.jpg HTTP/1.1[0m" 304 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): us1.locationiq.com:443
+DEBUG:urllib3.connectionpool:https://us1.locationiq.com:443 "GET /v1/search.php?key=316aed2e9d379d&q=&format=json HTTP/1.1" 400 None
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:27:00] "POST /passtime HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Mar/2022 10:27:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\flask_app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\ISS_Functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\Eshaan\\Desktop\\College\\Minor Project\\ISS_Functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 728-805-011
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)

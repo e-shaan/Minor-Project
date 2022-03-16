@@ -40,6 +40,27 @@ class Astronauts(db.Model):
     def __repr__(self):
         return '<ID %r>' %self.ID
 
+#database model
+class Passtimes(db.Model):
+
+    current_time = db.Column(db.String(100), primary_key = True)
+    passtime = db.Column(db.String(100) , nullable = False)
+    latitude = db.Column(db.REAL , nullable = False)
+    longitude = db.Column(db.REAL , nullable = False)
+    location = db.Column(db.String(200) , nullable = False)
+
+    def __repr__(self):
+        return '<id %r>' %self.id
+
+#database model
+class Location(db.Model):
+    passtime = db.Column(db.String(100) , primary_key = True)
+    latitude = db.Column(db.REAL , nullable = False)
+    longitude = db.Column(db.REAL , nullable = False)
+    country = db.Column(db.String(200) , nullable = False)
+
+    def __repr__(self):
+        return '<passtime %r>' %self.passtime
 
 
 
@@ -119,6 +140,11 @@ def location():
     #get_country_name() returns the name of the country or "Ocean" 
     country = get_country_name( latitude , longitude )
 
+    #entering single record into the 'Location' table
+    new_entry = Location(country =  country, latitude = float(latitude), longitude = float(longitude),  passtime = datetime.now())
+    db.session.add(new_entry)
+    db.session.commit()
+
     return render_template("location.html", longitude = longitude , latitude = latitude , country = country)
 
 #passtime page
@@ -126,8 +152,23 @@ def location():
 def passtime():
     if request.method == "POST":
         location = request.form['location']
-        passtime = ISS_passtimes(location)
-        return render_template("passtime.html",passtime = passtime)
+        
+        data = ISS_passtimes(location)
+
+        passtime = data[0]
+
+        if data != "Invalid Location!":
+
+            latitude = data[1]
+            longitude = data[2]
+
+            #entering single record into the 'Passtimes' table
+            new_entry = Passtimes( current_time = datetime.now(), passtime = passtime, latitude = latitude , longitude = longitude, location =  location )
+            db.session.add(new_entry)
+            db.session.commit()
+
+
+        return render_template("passtime.html", passtime = passtime)
     else:
         return render_template("passtime.html")
    

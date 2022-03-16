@@ -33,11 +33,10 @@ def ISS_passtimes(location): #function to find the ISS passtimes for a location
 
         passtime = datetime.fromtimestamp(data_two['response'][0]['risetime'])
         #return the ISS passtimes
-        print(passtime)
-        return  str(passtime)
+        return  str(passtime) , latitude , longitude
     
     else:
-       return "Invalid Location!"
+       return "Invalid Location!" 
 
 
 
@@ -68,7 +67,7 @@ def ISS_location(): #function to find the current location of the ISS
 
     latitude = data['iss_position']['latitude']
     longitude = data['iss_position']['longitude']    
-    #print(latitude , longitude)
+
     return latitude , longitude
 
 
